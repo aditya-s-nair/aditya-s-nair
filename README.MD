@@ -1,4 +1,4 @@
-<h2 align="center">Graduate Engineer Trainee</h2>
+<h2 align="center">Software Engineer</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-s-nair" alt="aditya-s-nair" /></a> </p>
 
